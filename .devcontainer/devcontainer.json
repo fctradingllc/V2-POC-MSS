@@ -1,0 +1,4 @@
+{
+  "name": "V2-POC-MSS Odoo 19",
+  "postStartCommand": "bash /workspaces/V2-POC-MSS/scripts/start.sh"
+}

@@ -3,3 +3,5 @@ odoo19/
 *.pyc
 __pycache__/
 .DS_Store
+backups/*.dump
+backups/*.tar.gz
